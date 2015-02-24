@@ -149,9 +149,7 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key) {
-    if(key == 'r') {
-        framesLeftToShowImages = SHOW_IMAGES_FOR;
-    }
+
 }
 
 //--------------------------------------------------------------
